@@ -3,7 +3,6 @@
 ### Federico Gallo
 
 🎓 **BSc in Computer Science Student** - Università degli Studi di Milano  
-👨‍💻 **Project Team Member at UnimAI** - Contributing to collaborative projects in AI and Data Science  
 
 ---
 
